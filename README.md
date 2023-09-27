@@ -89,9 +89,21 @@
 
 ## 📍 Overview
 
-This project is a web application developed in _Next.js_ and _TypeScript_ for a
+This project is a scheduling web application developed in _Next.js_ and _TypeScript_ that allows users to create and manage their schedules. It offers features such as user registration, profile management, connection to Google Calendar and creation of scheduling events.
+
+The application aims to simplify the agenda management process and ensure that users have an efficient and organized way of managing their time. Its value proposition lies in its seamless integration with Google Calendar, its user-friendly interface and its robust scheduling and availability management functionality.
 
 ## ✨ Features
+
+🏷 **Reserve your username** for later
+
+📅 Seamlessly sync your agenda with **Google Calendar integration**
+
+👥 Personalize your experience with easy **user registration and profile management**
+
+➕ **Create scheduling events without conflicts** and add them into your Google Calendar
+
+🔗 **Share your link** and watch events pops right into your agenda.
 
 ## 🤖 Demo
 

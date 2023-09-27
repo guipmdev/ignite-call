@@ -89,9 +89,21 @@
 
 ## 📍 Visão geral
 
-Este projeto é uma aplicação web desenvolvida em _Next.js_ e _TypeScript_ de
+Esse projeto é uma aplicação web de agendamento desenvolvida em _Next.js_ e _TypeScript_ que permite aos usuários criar e gerenciar suas agendas. Ele oferece recursos como registro de usuário, gerenciamento de perfil, conexão com o Google Agenda e criação de eventos de agendamento.
+
+O aplicativo tem como objetivo simplificar o processo de administração de agendas e garantir que os usuários tenham uma maneira eficiente e organizada de administrar seu tempo. Sua proposta de valor está na integração perfeita com o Google Agenda, na interface amigável e na funcionalidade robusta de agendamento e gerenciamento de disponibilidade.
 
 ## ✨ Funcionalidades
+
+🏷 **Reserve seu nome de usuário** para mais tarde
+
+📅 Sincronize facilmente sua agenda com a **integração do Google Agenda**
+
+👥 Personalize sua experiência com um fácil **registro de usuário e gerenciamento de perfil**
+
+➕ **Crie eventos de agendamento sem conflitos** e adicione-os ao seu Google Agenda
+
+🔗 **Compartilhe seu link** e veja os eventos aparecerem diretamente no seu calendário.
 
 ## 🤖 Demo
 
