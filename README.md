@@ -107,6 +107,8 @@ The application aims to simplify the agenda management process and ensure that u
 
 ## 🤖 Demo
 
+https://github.com/guipmdev/ignite-call/assets/136738335/6a4a59c3-0df5-429b-8a6d-86bb338aabcd
+
 ## 🎨 Layout
 
 The layout of the application was designed by **Rocketseat** and is available on [Figma](<https://www.figma.com/file/5NSfvvfsVxKatf19vsoshN/Ignite-Call-(Community)>).
