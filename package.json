@@ -1,6 +1,6 @@
 {
   "name": "ignite-call",
-  "description": "",
+  "description": "User-friendly scheduling web app with seamless Google Calendar integration",
   "private": true,
   "scripts": {
     "dev": "next dev",
