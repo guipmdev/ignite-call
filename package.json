@@ -1,6 +1,6 @@
 {
   "name": "ignite-06-ignite-call",
-  "version": "0.1.0",
+  "description": "",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -37,5 +37,19 @@
     "@types/cookie": "^0.5.2",
     "eslint": "^8.49.0",
     "prisma": "^5.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guipmdev/ignite-call.git"
+  },
+  "bugs": {
+    "url": "https://github.com/guipmdev/ignite-call/issues"
+  },
+  "author": {
+    "name": "Guilherme Preveda Milék",
+    "email": "guipmdev@gmail.com",
+    "url": "https://guipm.dev/"
+  },
+  "license": "MIT",
+  "homepage": "https://guipmdev-ignite-call.vercel.app/"
 }
