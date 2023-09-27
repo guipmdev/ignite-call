@@ -1,115 +1,115 @@
 <!-- ===== HEADER ===== -->
 <p align="right">
-  <img
-    src="https://img.shields.io/badge/lang-en-gray?style=flat-square&labelColor=202024"
-    alt="lang-en"
-  />
-  <a href="./README.pt-br.md" title="Ler o README em português brasileiro">
+  <a href="./README.md" title="Read the README in english">
     <img
-      src="https://img.shields.io/badge/lang-pt--br-green?style=flat-square&labelColor=202024"
-      alt="lang-pt-br"
+      src="https://img.shields.io/badge/lang-en-red?style=flat-square&labelColor=202024"
+      alt="lang-en"
     />
   </a>
+  <img
+    src="https://img.shields.io/badge/lang-pt--br-gray?style=flat-square&labelColor=202024"
+    alt="lang-pt-br"
+  />
 </p>
 
 <h1 align="center">
   <a
     href="https://guipmdev-ignite-call.vercel.app/"
-    title="Go to the web application"
-    >Ignite Call</a
+    title="Acessar a aplicação web"
+  >Ignite Call</a
   >
 </h1>
 
 <p align="center">
   <img
-    src="https://img.shields.io/github/languages/count/guipmdev/ignite-call?color=%2304D361&labelColor=202024"
-    alt="Repository language count"
+    src="https://img.shields.io/github/languages/count/guipmdev/ignite-call?color=%2304D361&labelColor=202024&label=linguagens"
+    alt="Contagem de linguagens do repositório"
   />
   <img
-    src="https://img.shields.io/github/repo-size/guipmdev/ignite-call?labelColor=202024"
-    alt="Repository size"
+    src="https://img.shields.io/github/repo-size/guipmdev/ignite-call?labelColor=202024&label=tamanho do repo"
+    alt="Tamanho do repositório"
   />
   <img
-    src="https://img.shields.io/github/commit-activity/m/guipmdev/ignite-call?color=black&labelColor=202024"
-    alt="Commit activity"
+    src="https://img.shields.io/github/commit-activity/m/guipmdev/ignite-call?color=black&labelColor=202024&label=atividade de commits"
+    alt="Atividade de commits"
   />
   <a
     href="https://github.com/guipmdev/ignite-call/commits/main"
-    title="View repository commits"
+    title="Visualizar commits do repositório"
   >
     <img
-      src="https://img.shields.io/github/last-commit/guipmdev/ignite-call?labelColor=202024"
-      alt="Last commit"
+      src="https://img.shields.io/github/last-commit/guipmdev/ignite-call?labelColor=202024&label=último commit"
+      alt="Último commit"
     />
   </a>
-  <a href="./LICENSE" title="View project license">
+  <a href="./LICENSE" title="Visualizar licença do projeto">
     <img
-      src="https://img.shields.io/badge/license-MIT-brightgreen?labelColor=202024"
-      alt="Project license"
+      src="https://img.shields.io/badge/license-MIT-brightgreen?labelColor=202024&label=licen%C3%A7a"
+      alt="Licença do projeto"
     />
   </a>
-  <a href="https://www.rocketseat.com.br/" title="Go to the Rocketseat website">
+  <a href="https://www.rocketseat.com.br/" title="Acessar o site da Rocketseat">
     <img
-      src="https://img.shields.io/badge/Layout_by-Rocketseat-8257e5?labelColor=202024"
-      alt="Layout designer"
+      src="https://img.shields.io/badge/Layout_por-Rocketseat-8257e5?labelColor=202024"
+      alt="Designer do layout"
     />
   </a>
 </p>
 
-![Screenshot of the application initial page](./src/assets/images/cover.webp)
+![Captura de tela da página inicial da aplicação](./src/assets/images/cover.webp)
 
 <p align="center">
   <a href="https://guipmdev-ignite-call.vercel.app/"
-    >Go to the web application ↗</a
+    >Acessar a aplicação web ↗</a
   >
 </p>
 
 <details>
   <summary>
-    <h2>📒 Table of Contents</h2>
+    <h2>📒 Índice</h2>
   </summary>
 
-- [📍 Overview](#-overview)
-- [✨ Features](#-features)
+- [📍 Visão geral](#-visão-geral)
+- [✨ Funcionalidades](#-funcionalidades)
 - [🤖 Demo](#-demo)
 - [🎨 Layout](#-layout)
-- [🛠 Technologies](#-technologies)
+- [🛠 Tecnologias](#-tecnologias)
   - [Website](#website)
   - [Back-end](#back-end)
-  - [Utils](#utils)
-- [🚀 Getting Started](#-getting-started)
-  - [✔️ Prerequisites](#️-prerequisites)
-  - [📦 Installation](#-installation)
-  - [⚙️ Usage](#️-usage)
-- [📄 License](#-license)
-- [👏 Acknowledgments](#-acknowledgments)
+  - [Úteis](#úteis)
+- [🚀 Primeiros passos](#-primeiros-passos)
+  - [✔️ Pré-requisitos](#️-pré-requisitos)
+  - [📦 Instalação](#-instalação)
+  - [⚙️ Utilização](#️-utilização)
+- [📄 Licença](#-licença)
+- [👏 Reconhecimentos](#-reconhecimentos)
 </details>
 
 <!-- ===== PROJECT INFOS ===== -->
 
-## 📍 Overview
+## 📍 Visão geral
 
-This project is a web application developed in _Next.js_ and _TypeScript_ for a
+Este projeto é uma aplicação web desenvolvida em _Next.js_ e _TypeScript_ de
 
-## ✨ Features
+## ✨ Funcionalidades
 
 ## 🤖 Demo
 
 ## 🎨 Layout
 
-The layout of the application was designed by **Rocketseat** and is available on [Figma](<https://www.figma.com/file/5NSfvvfsVxKatf19vsoshN/Ignite-Call-(Community)>).
+O layout da aplicação foi projetado pela **Rocketseat** e está disponível no [Figma](<https://www.figma.com/file/5NSfvvfsVxKatf19vsoshN/Ignite-Call-(Community)>).
 
 <p align="center">
   <img
     src="./src/assets/images/layout-cover.webp"
-    alt="Web application layout image cover"
+    alt="Imagem de capa do layout da aplicação web"
     width="50%"
   />
 </p>
 
-## 🛠 Technologies
+## 🛠 Tecnologias
 
-The following tools were used to build the project:
+As seguintes ferramentas foram usadas para desenvolver esse projeto:
 
 ### Website
 
@@ -217,9 +217,9 @@ The following tools were used to build the project:
   </a>
 </p>
 
-_\* See the [<kbd>package.json</kbd>](./package.json) file_
+_\* Confira o arquivo [<kbd>package.json</kbd>](./package.json)_
 
-### Utils
+### Úteis
 
 <p>
   <a href="https://git-scm.com/">
@@ -275,94 +275,93 @@ _\* See the [<kbd>package.json</kbd>](./package.json) file_
   </a>
 </p>
 
-## 🚀 Getting Started
+## 🚀 Primeiros passos
 
-### ✔️ Prerequisites
+### ✔️ Pré-requisitos
 
-Before you begin, ensure that you have the following tools installed on your machine: [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/en/download). It's also good to have an editor to work with the code, such as [VSCode](https://code.visualstudio.com/Download).
+Antes de você começar, certifique-se que você tem as seguintes ferramentas instaladas na sua máquina: [Git](https://git-scm.com/downloads), [Node.js](https://nodejs.org/en/download). Também é bom ter um editor para trabalhar com o código, como o [VSCode](https://code.visualstudio.com/Download).
 
-### 📦 Installation
+### 📦 Instalação
 
-1. Clone the repository:
+1. Clone o repositório:
 
 ```sh
 git clone https://github.com/guipmdev/ignite-call/
 ```
 
-2. Change to the project directory:
+2. Mude para o diretório do projeto:
 
 ```sh
 cd ignite-call
 ```
 
-3. Install the dependencies:
+3. Instale as dependências:
 
 ```sh
 npm install
 ```
 
-### ⚙️ Usage
+### ⚙️ Utilização
 
-1. Create a SQL database and note down the connection details
+1. Crie um banco de dados SQL e anote os detalhes de conexão
 
-   - This can be a local database, a remote database, or even a [Docker](https://www.docker.com/) container
+   - Pode ser um banco de dados local, remoto ou até mesmo um contêiner [Docker](https://www.docker.com/)
 
-2. Visit [Google Cloud Console](https://console.cloud.google.com/apis/dashboard), create a project, enable Google Calendar API, and, under Credentials, create an OAuth 2.0 client ID, configure the consent screen, and get Client ID and Secret
+2. Acesse o [Google Cloud Console](https://console.cloud.google.com/apis/dashboard), crie um projeto, ative a API do Google Calendar e, em Credenciais, crie um ID de cliente OAuth 2.0, configure a tela de autorização e obtenha o Client ID e o Secret.
 
-3. Generate a secure secret key for NextAuth.js
+3. Gere uma secret key segura para o NextAuth.js
 
-   - If you’re on a UNIX system, you can use the command `openssl rand -base64 32` to generate this key
+   - Se você estiver em um sistema UNIX, é possível usar o comando `openssl rand -base64 32` para gerar essa chave.
 
-4. Rename the file `.env.example` to `.env` and insert the necessary information:
+4. Renomeie o arquivo `.env.example` para `.env` e insira as informações necessárias:
 
 ```sh
 mv .env.example .env
 ```
 
-5. Generate the migrations, if necessary:
+5. Gere as migrações, se necessário:
 
 ```sh
 npx prisma migrate dev
 ```
 
-6. Push the migrations to the database:
+6. Envie as migrações para o banco de dados:
 
 ```sh
 npx prisma db push
 ```
 
-7. Start the web application:
+7. Inicie a aplicação web:
 
 ```sh
 npm run dev
 ```
 
-8. Access http://localhost:3000/ to view the application
+8. Acesse http://localhost:3000/ para visualizar a aplicação
 
-## 📄 License
+## 📄 Licença
 
-This project is licensed under the terms of the `MIT` license. See the
-[LICENSE](./LICENSE) file for additional info.
+Este projeto está licenciado de acordo com os termos da licença `MIT`. Consulte o arquivo [LICENSE](./LICENSE) para mais informações.
 
-## 👏 Acknowledgments
+## 👏 Reconhecimentos
 
-> - Many thanks to [Rocketseat](https://www.rocketseat.com.br/) for the layout and tips when putting this project together
+> - Muito obrigado à [Rocketseat](https://www.rocketseat.com.br/) pelo layout e pelas dicas de como montar este projeto
 
 <!-- ===== FOOTER ===== -->
 
 ---
 
 <p align="center">
-  Made with 💙 by
+  Feito com 💙 por
   <a href="https://www.guipm.dev/"> @guipm.dev </a>
-  - Feel free to
-  <a href="mailto:guipm.dev@gmail.com">contact me</a>!
+  - Fique à vontade para
+  <a href="mailto:guipm.dev@gmail.com">entrar em contato comigo</a>!
 </p>
 
 <br />
 
 <p align="center">
   <a href="#top">
-    <b>↑&nbsp;&nbsp; Return to the top &nbsp;&nbsp;↑</b>
+    <b>↑&nbsp;&nbsp; Voltar ao topo &nbsp;&nbsp;↑</b>
   </a>
 </p>
